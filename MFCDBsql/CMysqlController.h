@@ -2,10 +2,10 @@
 #include <mysql.h>
 #include <vector>
 #include "CMyBook.h"
-#define DB_HOST "127.0.0.1"
-#define DB_USER  "root"//DB Á¢¼Ó °èÁ¤
-#define DB_PASS  "1234"//DB °èÁ¤ ¾ÏÈ£
-#define DB_NAME "bookdb"//DB ÀÌ¸§ 
+#define DB_HOST "***.***.**"
+#define DB_USER  "****"//DB ÃÂ¢Â¼Ã“ Â°Ã¨ÃÂ¤
+#define DB_PASS  "****"//DB Â°Ã¨ÃÂ¤ Â¾ÃÃˆÂ£
+#define DB_NAME "****"//DB Ã€ÃŒÂ¸Â§ 
 
 using std::vector;
 
